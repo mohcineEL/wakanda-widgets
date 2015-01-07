@@ -191,3 +191,6 @@
 [submodule "WakCropImages"]
 	path = WakCropImages
 	url = https://github.com/dsantiago89/WakCropImages.git
+[submodule "WakToaster"]
+	path = WakToaster
+	url = https://github.com/mohcineEL/WakToaster.git
